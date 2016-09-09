@@ -1,0 +1,1 @@
+-record(dbsettings, {dbname, sizeinbytes, sizeversion}).
